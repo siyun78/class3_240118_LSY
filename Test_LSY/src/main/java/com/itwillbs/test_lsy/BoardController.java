@@ -10,5 +10,6 @@ public class BoardController {
 	public String boardList() {
 		return "board_list"; // 디스패치
 //		return "redirect:/BoardList2"; // 리다이렉트
+		// 주석 달았습니다!
 	}
 }
